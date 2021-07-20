@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1184-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+📫 How to reach me:
+- [twitter](https://twitter.com/henokcode)
+- [instagram](https://instagram.com/henokcode)
 
 <!--
 **henoktsegaye/henoktsegaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
