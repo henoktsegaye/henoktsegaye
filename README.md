@@ -10,9 +10,9 @@
 
 ## Tools to use
 
-[JSON Formatter](http://json-formatter.henoktsegaye.com/)
-[Audio Waveform Generator](http://audio-waveform.henoktsegaye.com/)
-[Diagram Maker](http://flow-chart-maker.henoktsegaye.com/)
+- [JSON Formatter](http://json-formatter.henoktsegaye.com/)
+- [Audio Waveform Generator](http://audio-waveform.henoktsegaye.com/)
+- [Diagram Maker](http://flow-chart-maker.henoktsegaye.com/)
 
 <!--
 **henoktsegaye/henoktsegaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
