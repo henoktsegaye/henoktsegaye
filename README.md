@@ -2,12 +2,12 @@
 📫 How to reach me:
 - [website](https://henoktsegaye.com)
 - [email](mailto:maxhenock@gmail.com)
-- [twitter](https://twitter.com/henokcode)
+- [x](https://x.com/henokcode)
 - [Linkedin](https://www.linkedin.com/in/henok-tsegaye-yeshanew)
 
 ---
 
-## Tools to use
+## Tools I built to use
 
 - [JSON Formatter](http://json-formatter.henoktsegaye.com/)
 - [Audio Waveform Generator](http://audio-waveform.henoktsegaye.com/)
