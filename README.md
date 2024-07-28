@@ -3,7 +3,6 @@
 - [website](https://henoktsegaye.com)
 - [email](mailto:maxhenock@gmail.com)
 - [twitter](https://twitter.com/henokcode)
-- [instagram](https://instagram.com/henokcode)
 - [Linkedin](https://www.linkedin.com/in/henok-tsegaye-yeshanew)
 
 ---
